@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("=== O noso equipo ===");
+        System.out.println("=== grupo anchoa===");
  
         Membro1.presentar();
  
@@ -9,5 +9,7 @@ public class Main {
         // Membro3.presentar();
  
         // Membro4.presentar();
+
+            System.out.println("=== Fin ===");
     }
 }
